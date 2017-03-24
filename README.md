@@ -1,2 +1,2 @@
 # matrix
-matrix-fangkuai
+JavaScript魔方
